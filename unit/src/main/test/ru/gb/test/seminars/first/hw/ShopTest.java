@@ -1,6 +1,9 @@
 package ru.gb.test.seminars.first.hw;
 
 import org.junit.Test;
+import ru.gb.test.seminars.first.hw.Product;
+import ru.gb.test.seminars.first.hw.Shop;
+
 import static org.junit.Assert.*;
 
 import java.util.ArrayList;
